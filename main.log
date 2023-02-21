@@ -1,5 +1,0 @@
-{'time': '2023-02-20 18:55:49.006032', 'name_function': 'hello_world', 'arguments': [(), {}], 'result': 'Hello World'}
-{'time': '2023-02-20 18:55:49.006032', 'name_function': 'summator', 'arguments': [(2, 2), {}], 'result': 4}
-{'time': '2023-02-20 18:55:49.007024', 'name_function': 'div', 'arguments': [(6, 2), {}], 'result': 3.0}
-{'time': '2023-02-20 18:55:49.007024', 'name_function': 'summator', 'arguments': [(4.3,), {'b': 2.2}], 'result': 6.5}
-{'time': '2023-02-20 18:55:49.007024', 'name_function': 'summator', 'arguments': [(), {'a': 0, 'b': 0}], 'result': 0}
